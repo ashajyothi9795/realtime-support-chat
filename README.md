@@ -28,3 +28,7 @@ A real-time full-stack chat application built using React, Node.js, Express, and
 cd client
 npm install
 npm run dev
+#### Server
+cd server
+npm install
+node index.js
