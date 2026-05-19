@@ -28,7 +28,14 @@ A real-time full-stack chat application built using React, Node.js, Express, and
 cd client
 npm install
 npm run dev
-#### Server
+
+**#### Server**
 cd server
 npm install
 node index.js
+
+**## Internship Details**
+
+- Company: CodTech IT Solutions
+- Domain: Full Stack Web Development
+- Intern ID:CITS909
